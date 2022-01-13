@@ -1,5 +1,5 @@
 1일차 (chatbot layout)
 file:///C:/Users/%EC%86%8C%EC%98%81/Desktop/%EC%8F%AD/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/JS/%EB%AA%A8%EA%B0%81%EC%BD%94/%EC%B1%97%EB%B4%87.html
 
-3일차 (JS prac 3행시)
-file:///C:/Users/%EC%86%8C%EC%98%81/Desktop/%EC%8F%AD/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/JS/%EB%AA%A8%EA%B0%81%EC%BD%94/practice/JS.html
+3,4일차 (JS prac 3행시)
+file:///C:/Users/%EC%86%8C%EC%98%81/Desktop/%EC%8F%AD/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/JS/%EB%AA%A8%EA%B0%81%EC%BD%94/practice/3%ED%96%89%EC%8B%9C.html
