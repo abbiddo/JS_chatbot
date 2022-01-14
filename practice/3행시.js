@@ -17,3 +17,19 @@ function change2(){
 	h1[2].innerHTML="코딩";
 	console.log(count++);
 }
+
+/** console 연습 **/
+var n=21;
+var str="abbiddo";
+var ft=true;
+var obj={0:"zore", 1:"one", 2:"two"};
+
+console.log(typeof n);
+console.log(typeof str);
+console.log(typeof ft);
+console.log(typeof obj);
+console.log(typeof a);
+console.log(typeof 13);
+console.log(typeof "Hello");
+console.log(typeof false);
+console.log(typeof {3:"three", 4:"four"});
