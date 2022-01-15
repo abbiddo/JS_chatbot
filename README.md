@@ -20,7 +20,7 @@ https://codemate.kr/@abbiddo/%EC%9B%B9-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A
 
 < html link >
 * 1일차 (chatbot layout)<br>
-file:///C:/Users/%EC%86%8C%EC%98%81/Desktop/%EC%8F%AD/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/JS/%EB%AA%A8%EA%B0%81%EC%BD%94/%EC%B1%97%EB%B4%87/chatbot.html <br><br>
+file:///C:/Users/%EC%86%8C%EC%98%81/Desktop/%EC%8F%AD/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/JS/%EB%AA%A8%EA%B0%81%EC%BD%94/%EC%B1%97%EB%B4%87/chatbot.html <br>
 
 * 3일차 (JS prac 3행시)<br>
 4일차 (JS console)<br>
