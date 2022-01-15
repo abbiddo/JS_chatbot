@@ -25,4 +25,7 @@ file:///C:/Users/%EC%86%8C%EC%98%81/Desktop/%EC%8F%AD/%ED%94%84%EB%A1%9C%EA%B7%B
 * 3일차 (JS prac 3행시)<br>
 4일차 (JS console)<br>
 5일차 (JS var, typeof)<Br>
-file:///C:/Users/%EC%86%8C%EC%98%81/Desktop/%EC%8F%AD/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/JS/%EB%AA%A8%EA%B0%81%EC%BD%94/3%ED%96%89%EC%8B%9C/3%ED%96%89%EC%8B%9C.html <br><br>
+file:///C:/Users/%EC%86%8C%EC%98%81/Desktop/%EC%8F%AD/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/JS/%EB%AA%A8%EA%B0%81%EC%BD%94/3%ED%96%89%EC%8B%9C/3%ED%96%89%EC%8B%9C.html <br>
+  
+* 계산기
+  file:///C:/Users/%EC%86%8C%EC%98%81/Desktop/%EC%8F%AD/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/JS/%EB%AA%A8%EA%B0%81%EC%BD%94/%EA%B3%84%EC%82%B0%EA%B8%B0/cal.html
