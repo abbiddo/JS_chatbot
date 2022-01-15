@@ -1,5 +1,5 @@
-# JS_chatbot
-모각코 JS 챗봇
+# MGK_JS
+모각코 JS
 
 < codemate link >
 * 1일차<br>
