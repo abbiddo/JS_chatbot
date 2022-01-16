@@ -35,12 +35,19 @@ function num(n){
 }
 
 function symbol(n){
+	if (s==1) n1+=n2;
+	else if (s==2) n1-=n2;
+	else if (s==3) n1*=n2;
+	else if (s==4) n1/=n2;
+	n2=0;
+
 	s=n;
 	cnt=0;
+
 	if (s==1) str+="+";
 	else if (s==2) str+="-";
-	else if (s==3) str+="X";
-	else str+="/";
+	else if (s==3) str+="×";
+	else str+="÷";
 
 	h2[0].innerHTML=str;
 
