@@ -57,14 +57,15 @@ function dot(){
 function result(){
 	cnt+=1;
 	str+="=";
-	
+
 	if (s==1) n1+=n2;
 	else if (s==2) n1-=n2;
 	else if (s==3) n1*=n2;
 	else n1/=n2;
 
-	str+=n1;
+	n1=Math.round(n1*1000)/1000   //0.2*0.4=0.0800000002 를 방지하기 위함
 	console.log(n1);
+	str+=n1;
 	h2[0].innerHTML=str;
 
 	n2=0;
