@@ -31,4 +31,9 @@
 	width: 80px;
 	height: 80px;
 	border-radius: 50px;
+	border-width: 3.1px;
+}
+
+.btn:hover{
+	background-color: white;
 }
