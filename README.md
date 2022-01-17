@@ -26,8 +26,8 @@ https://abbiddo.github.io/MGK_JS/%EC%B1%97%EB%B4%87/chatbot.html <br>
 
 * 3일차 (JS prac 3행시)<br>
 4일차 (JS console)<br>
-5일차 (JS var, typeof)<Br>
+5일차 (JS var, typeof)<r>
 https://abbiddo.github.io/MGK_JS/3%ED%96%89%EC%8B%9C/3%ED%96%89%EC%8B%9C.html <br>
   
-* 계산기<br>
+* 6일차 (사칙연산 계산기)<br>
 https://abbiddo.github.io/MGK_JS/%EA%B3%84%EC%82%B0%EA%B8%B0/cal.html
