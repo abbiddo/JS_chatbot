@@ -4,6 +4,7 @@
 	background-color: #e6e6fa;
 	padding: 15px;
 	border-radius: 20px;
+	box-shadow: 10px 10px 2px 2px #e6d9fa;
 }
 
 .text{
@@ -30,10 +31,20 @@
 	margin: 9px 5px;
 	width: 80px;
 	height: 80px;
+	border: 0px;
 	border-radius: 50px;
 	border-width: 3.1px;
+	box-shadow: 2px 2px 3px 2px grey;
 }
 
 .btn:hover{
 	background-color: white;
+}
+
+.btn:active{
+	position: relative;    /** 위치 이동을 위해 position, top 사용 **/
+	top: 2px;
+	left: 2px;
+	box-shadow: none;
+	background-color: #f8f8ff;
 }
