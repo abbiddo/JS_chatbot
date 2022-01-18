@@ -2,10 +2,10 @@
 	margin: 150px auto;
 	width: 500px;
 	height: 330px;
-	background-color: #E3C4FF;
+	background-color: #ffdead;
 	border-radius: 35px;
-	border: 1px solid #E3C4FF;
-	box-shadow: 12px 12px 4px #EBB9FF;
+	border: 1px solid #ffdead;
+	box-shadow: 12px 12px 4px #ffd0a0;
 }
 
 .time{
