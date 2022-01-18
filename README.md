@@ -39,6 +39,6 @@ https://codemate.kr/@abbiddo/%EC%9B%B9-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A
 https://codemate.kr/@abbiddo/%EC%9B%B9-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-6%EC%9D%BC%EC%B0%A8
   
 * 7일차<br>
-https://codemate.kr/@abbiddo/%EC%9B%B9-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-7%EC%9D%BC%EC%B0%A8
+https://codemate.kr/@abbiddo/%EC%9B%B9-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-07%EC%9D%BC%EC%B0%A8
   
  
