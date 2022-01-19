@@ -19,6 +19,9 @@ https://abbiddo.github.io/MGK_JS/%EC%8A%A4%ED%86%B1%EC%9B%8C%EC%B9%98/stopwatch.
   
 * 8일차 (전광판)<br>
 https://abbiddo.github.io/MGK_JS/%EC%A0%84%EA%B4%91%ED%8C%90/display.html<br>
+  
+* 9일차 (영화)<br>
+https://abbiddo.github.io/MGK_JS/%EC%98%81%ED%99%94/movie.html<br>
 
   
 <h2> < codemate link > </h2>
