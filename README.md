@@ -22,8 +22,11 @@ https://abbiddo.github.io/MGK_JS/%EC%A0%84%EA%B4%91%ED%8C%90/display.html<br>
   
 * 9일차 (영화)<br>
 https://abbiddo.github.io/MGK_JS/%EC%98%81%ED%99%94/movie.html<br>
-
   
+* 10일차 (전화)<br>
+https://abbiddo.github.io/MGK_JS/%EC%A0%84%ED%99%94/call.html<br>
+
+<br>  
 <h2> < codemate link > </h2>
 
 * 1일차<br>
