@@ -1,0 +1,111 @@
+.box{
+	margin: 30px auto;
+	width: 300px;
+	height: 600px;
+	border: 1px solid black;
+	border-radius: 30px;
+	background-color: black;
+}
+
+.top{
+	margin: auto;
+	height: 60px;
+	width: 300px;
+}
+
+.speaker{
+	margin: 20px 10px 20px 120px;
+	width: 50px;
+	height: 7px;
+	border: 1px solid black;
+	border-radius: 10px;
+	background-color: white;
+	display: inline-block;
+}
+
+.camera{
+	margin: 20px 5px;
+	width: 7px;
+	height: 7px;
+	border: 1px solid black;
+	border-radius: 10px;
+	background-color: white;
+	display: inline-block;
+}
+
+#display{
+	margin: auto;
+	width: 280px;
+	height: 480px;
+	border: 1px solid black;
+	background-color: black;
+	display: flex;
+	flex-direction: column;
+}
+
+.time{
+	width: 280px;
+	height: 20px;
+	text-align: center;
+}
+
+.callnumber{
+	text-align: center;
+}
+
+.number{
+	display: flex;
+	flex-direction: column;
+}
+
+.n{
+	margin: auto -2px;
+	display: flex;
+	flex-direction: row;
+	border: 1px solid black;
+}
+
+#call{
+	margin: 1px 0px 0px 180px;
+	width: 40px;
+	height: 40px;
+	border: 1px solid black;
+	border-radius: 40px;	
+	background-color: black;
+}
+
+.bottom{
+	margin: auto;
+	height: 60px;
+	width: 300px;
+}
+
+.btn{
+	margin: 10px 130px;
+	width: 40px;
+	height: 40px;
+	border: 1px solid black;
+	border-radius: 20px;
+}
+
+.btn:active{
+	background-color: #e0e0e0;
+}
+
+#call:hover{
+	background-color: black;
+}
+
+h5{
+	margin: 0px;
+}
+
+hr{
+	margin: 0px -2px;
+	background-color: black;
+	border: 0.5px solid black;
+}
+
+h4{
+	margin: 10px 5px;
+}
