@@ -25,6 +25,7 @@ https://abbiddo.github.io/MGK_JS/%EC%98%81%ED%99%94/movie.html<br>
   
 * 10일차 (전화)<br>
 https://abbiddo.github.io/MGK_JS/%EC%A0%84%ED%99%94/call.html<br>
+// 폴더에서 열었을 때랑 링크로 열었을 때랑 결과가 너무 다름
 
 <br>  
 <h2> < codemate link > </h2>
