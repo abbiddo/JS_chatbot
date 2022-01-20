@@ -50,6 +50,7 @@
 }
 
 .callnumber{
+	margin: 10px;
 	text-align: center;
 }
 
@@ -80,6 +81,21 @@
 	width: 300px;
 }
 
+#calling{
+	margin: 10px;
+	text-align: center;
+	display: none;
+}
+
+#calll{
+	margin: 20px auto;
+	width: 40px;
+	height: 40px;
+	border: 1px solid black;
+	border-radius: 40px;
+	background-color: white;
+}
+
 .btn{
 	margin: 10px 130px;
 	width: 40px;
@@ -93,7 +109,11 @@
 }
 
 #call:hover{
-	background-color: black;
+	background-color: #3cb371 !important;
+}
+
+#calll:hover{
+	background-color: red !important;
 }
 
 h5{

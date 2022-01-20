@@ -21,9 +21,26 @@
 				<div class="callnumber">연락처</div>
 				<div class="number">
 					<div class="n">
-						<h4>이변수</h4>
-						<button id="call"><i class="fas fa-phone"></i></button>
+						<h4>좌변수</h4>
+						<button id="call" onclick="call(0)"><i class="fas fa-phone"></i></button>
 					</div>
+					<div class="n">
+						<h4>이씨샾</h4>
+						<button id="call" onclick="call(1)"><i class="fas fa-phone"></i></button>
+					</div>
+					<div class="n">
+						<h4>다자바</h4>
+						<button id="call" onclick="call(2)"><i class="fas fa-phone"></i></button>
+					</div>
+					<div class="n">
+						<h4>썬파이</h4>
+						<button id="call" onclick="call(3)"><i class="fas fa-phone"></i></button>
+					</div>
+				</div>
+				<div id="calling">
+					<h1></h1>
+					<h2></h2>
+					<button id="calll" onclick="end()"><i class="fas fa-phone"></i></button>
 				</div>
 			</div>
 			<div class="bottom">
