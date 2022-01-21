@@ -6,7 +6,7 @@
 }
 
 .layout{
-	margin: 100px;
+	margin: 60px;
 }
 
 .box{
@@ -15,6 +15,7 @@
   	height: 100px;
  	border: 10px solid #c0c0c0;
   	border-radius: 10px;
+  	background-color: white;
   	box-shadow: 3px 3px 4px 3px grey;
 }
 
@@ -40,11 +41,13 @@
 
 .textBox{
 	margin: 30px auto;
-	width: 100px;
+	width: 150px;
+	display: flex;
+	flex-direction: row;
 }
 
-.btn{
-	margin: auto;
+#btn{
+	margin: 0px 0px 0px 10px;
 	width: 100px;
 	height: 30px;
 	background-color: #c0c0c0;
@@ -54,12 +57,54 @@
 	box-shadow: 2px 2px 3px 2px grey; 
 }
 
-.btn:active{
-	margin: 2px 0px 0px 2px;
+#btn:active{
+	margin: 2px 0px 0px 12px;
 	box-shadow: none;
+	font-family: 'Wemakeprice-Regular';
+}
+
+#btn:active + button{
+	margin: 0px -5px 0px 6px;
+}
+
+#hbtn{
+	margin: 0px -5px 0px 8px;
+	width: 30px;
+	height: 30px;
+	border: 0px;
+	border-radius: 15px;
+	background-color: black;
+	color: white;
+	box-shadow: 1px 1px 2px 1px grey; 
+}
+
+#hbtn:active{
+	margin: 1px -5px 0px 9px;
+	box-shadow: none;
+	font-family: 'Wemakeprice-Regular';
+}
+
+#help{
+	margin: auto;
+	padding: 10px;
+	width: 250px;
+	background-color: #Fafad2;
+	border-radius: 20px;
+	display: none;
 }
 
 h2{
+	margin: 13px 10px;
+	padding: 10px;
 	font-family: 'Wemakeprice-Regular';
   	text-align: center;
+}
+
+h4{
+	margin: 5px;
+	font-family: 'Wemakeprice-Regular';
+}
+
+body{
+	background-color: white;
 }
