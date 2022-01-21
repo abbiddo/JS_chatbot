@@ -15,6 +15,7 @@
   	height: 100px;
  	border: 10px solid #c0c0c0;
   	border-radius: 10px;
+  	box-shadow: 3px 3px 4px 3px grey;
 }
 
 .img{
@@ -33,11 +34,12 @@
 	height: 20px;
 	border: 5px solid #c0c0c0;
   	border-radius: 10px;
+  	box-shadow: 3px 3px 4px 3px grey;
   	font-family: 'Wemakeprice-Regular';
 }
 
 .textBox{
-	margin: 10px auto;
+	margin: 30px auto;
 	width: 100px;
 }
 
@@ -45,9 +47,16 @@
 	margin: auto;
 	width: 100px;
 	height: 30px;
-	background-color: #a9a9a9;
+	background-color: #c0c0c0;
+	border: 0px;
 	border-radius: 20px;
 	font-family: 'Wemakeprice-Regular';
+	box-shadow: 2px 2px 3px 2px grey; 
+}
+
+.btn:active{
+	margin: 2px 0px 0px 2px;
+	box-shadow: none;
 }
 
 h2{
