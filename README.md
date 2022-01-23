@@ -5,7 +5,7 @@
 
 * 1일차 (chatbot layout)<br>
 11일차 (chatbot alert)<br>
-12일차 (chatbot tech)<br>
+12일차 (chatbot communication)<br>
 13일차 (chatbot text, repeat, difference)<br>
 https://abbiddo.github.io/MGK_JS/%EC%B1%97%EB%B4%87/chatbot.html <br>
 
