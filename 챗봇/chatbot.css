@@ -5,9 +5,11 @@
     font-style: normal;
 }
 
+
 .layout{
 	margin: 60px;
 }
+
 
 .box{
 	margin: auto;
@@ -19,16 +21,19 @@
   	box-shadow: 3px 3px 4px 3px grey;
 }
 
+
 .img{
 	width: 200px;
 	height: 150px;
   	overflow: auto;
 }
 
+
 .minibox{
 	margin: 10px auto;
 	width: 200px;
 }
+
 
 .inputText{
 	width: 190px;
@@ -39,12 +44,14 @@
   	font-family: 'Wemakeprice-Regular';
 }
 
+
 .textBox{
 	margin: 30px auto;
 	width: 150px;
 	display: flex;
 	flex-direction: row;
 }
+
 
 #btn{
 	margin: 0px 0px 0px 10px;
@@ -57,15 +64,18 @@
 	box-shadow: 2px 2px 3px 2px grey; 
 }
 
+
 #btn:active{
 	margin: 2px 0px 0px 12px;
 	box-shadow: none;
 	font-family: 'Wemakeprice-Regular';
 }
 
+
 #btn:active + button{
 	margin: 0px -5px 0px 6px;
 }
+
 
 #hbtn{
 	margin: 0px -5px 0px 8px;
@@ -78,11 +88,13 @@
 	box-shadow: 1px 1px 2px 1px grey; 
 }
 
+
 #hbtn:active{
 	margin: 1px -5px 0px 9px;
 	box-shadow: none;
 	font-family: 'Wemakeprice-Regular';
 }
+
 
 #help{
 	margin: auto;
@@ -93,6 +105,7 @@
 	display: none;
 }
 
+
 h2{
 	margin: 13px 10px;
 	padding: 10px;
@@ -100,10 +113,12 @@ h2{
   	text-align: center;
 }
 
+
 h4{
 	margin: 5px;
 	font-family: 'Wemakeprice-Regular';
 }
+
 
 body{
 	background-color: white;
