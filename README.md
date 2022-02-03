@@ -3,6 +3,10 @@
 <br>
 <h2> < html link > </h2>
 
+
+<details>
+    <summary>html</summary>
+  
 * 1일차 (chatbot layout)<br>
 11일차 (chatbot alert)<br>
 12일차 (chatbot communication)<br>
@@ -29,10 +33,17 @@ https://abbiddo.github.io/MGK_JS/%EC%98%81%ED%99%94/movie.html<br>
   
 * 10일차 (전화)<br>
 https://abbiddo.github.io/MGK_JS/%EC%A0%84%ED%99%94/call.html<br>
+  
 
+</details>
+  
 <br>  
 <h2> < codemate link > </h2>
 
+
+<details>
+    <summary>코드 메이트</summary>
+  
 * 1일차<br>
 https://codemate.kr/@abbiddo/%EC%9B%B9-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-1%EC%9D%BC%EC%B0%A8
 
@@ -77,3 +88,5 @@ https://codemate.kr/@abbiddo/%EC%9B%B9-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A
   
 * 15일차<br>
 https://codemate.kr/@abbiddo/%EC%9B%B9-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-15%EC%9D%BC%EC%B0%A8
+  
+</details>
